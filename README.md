@@ -13,7 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Lijiaoa"><img src="https://avatars.githubusercontent.com/u/61399850?v=4?s=80" width="80px;" alt=""/><br /><sub><b>lijiaoa</b></sub></a><br /><a href="https://github.com/lijiao/allcontri/commits?author=Lijiaoa" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Lijiaoa"><img src="https://avatars.githubusercontent.com/u/61399850?v=4?s=80" width="30px;" alt=""/><br /><sub><b>lijiaoa</b></sub></a><br /></td>
   </tr>
 </table>
 
