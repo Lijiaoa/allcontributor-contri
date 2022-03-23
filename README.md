@@ -11,11 +11,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Lijiaoa"><img src="https://avatars.githubusercontent.com/u/61399850?v=4?s=80" width="30px;" alt=""/><br /></a><br /></td>
-  </tr>
-</table>
+
+  <a href="https://github.com/Lijiaoa"><img src="https://avatars.githubusercontent.com/u/61399850?v=4?s=80" width="30px;" alt=""/></a>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
