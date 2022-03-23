@@ -6,7 +6,7 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 80,
+  "imageSize": 30,
   "commit": true,
   "commitConvention": "none",
   "contributors": [
@@ -14,10 +14,7 @@
       "login": "Lijiaoa",
       "name": "lijiaoa",
       "avatar_url": "https://avatars.githubusercontent.com/u/61399850?v=4",
-      "profile": "https://github.com/Lijiaoa",
-      "contributions": [
-        "doc"
-      ]
+      "profile": "https://github.com/Lijiaoa"
     }
   ],
   "contributorsPerLine": 7
