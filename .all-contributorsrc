@@ -6,24 +6,16 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 80,
+  "imageSize": 30,
   "commit": true,
   "commitConvention": "none",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
   "contributors": [
     {
       "login": "Lijiaoa",
       "name": "lijiaoa",
       "avatar_url": "https://avatars.githubusercontent.com/u/61399850?v=4",
       "profile": "https://github.com/Lijiaoa",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "lvybriage",
-      "name": "Lijiao",
-      "avatar_url": "https://avatars.githubusercontent.com/u/35484733?v=4",
-      "profile": "https://github.com/lvybriage",
       "contributions": [
         "doc"
       ]
